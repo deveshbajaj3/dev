@@ -1,0 +1,16 @@
+Addition(){
+pass
+}
+
+Divide(){
+pass
+}
+
+
+substrct(){
+pass
+}
+
+Multiple(){
+pass
+}
