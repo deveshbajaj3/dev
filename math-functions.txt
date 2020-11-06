@@ -11,6 +11,6 @@ substrct(){
 pass
 }
 
-Multiple(){
-pass
+Multiple(x,y){
+return x*y
 }
