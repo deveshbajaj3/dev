@@ -1,5 +1,5 @@
-Addition(){
-pass
+Addition(x,y){
+return x+y
 }
 
 Divide(x,y){
