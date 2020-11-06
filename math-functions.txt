@@ -2,8 +2,8 @@ Addition(){
 pass
 }
 
-Divide(){
-pass
+Divide(x,y){
+return x/y
 }
 
 
